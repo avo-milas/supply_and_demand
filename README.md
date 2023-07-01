@@ -45,16 +45,23 @@ necessary libraries:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-In each model block, a graphical interface is implemented. The parameter values can be changed using sliders as shown in the image below:
+In each model block, the parameter values can be changed as shown in the image below:
 
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
-<img src="" alt="" width="500" />
+<img src="https://github.com/avo-milas/supply_and_demand/blob/main/parameters.png" alt="parameters" width="400" />
 
+The following are illustrations of the operation of the model with random parametrs:
+
+1. Dynamics of expexted prices
+
+<img src="https://github.com/avo-milas/supply_and_demand/blob/main/exp_prices.png" alt="exp_prices" width="500" />
+
+2. Dynamics of deals share
+   
+<img src="https://github.com/avo-milas/supply_and_demand/blob/main/deals_perc.png" alt="deals_perc" width="500" />
+
+3. Supply and demand at a given moment
+
+<img src="https://github.com/avo-milas/supply_and_demand/blob/main/sup_dem.png" alt="sup_dem" width="500" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
