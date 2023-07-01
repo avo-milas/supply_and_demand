@@ -64,6 +64,6 @@ In each model block, a graphical interface is implemented. The parameter values 
 
 Alina Salimova - [@avo_milas](https://t.me/avo_milas) - avo_milas@mail.ru
 
-Project Link: [https://github.com/avo-milas/utility_maximization](https://github.com/avo-milas/utility_maximization)
+Project Link: [https://github.com/avo-milas/supply_and_demand](https://github.com/avo-milas/supply_and_demand)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
